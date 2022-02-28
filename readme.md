@@ -3,7 +3,7 @@
 **This is cli example of how to catch data from the user with inquirer and also how to execute commands (example git clone).**
 
 ### Requirements
-- You need to have ***node js, npm and git installed
+- You need to have ***node js, npm and git installed***
 
 ### Instructions
 - Make sure the file ./index.js have execution permissions, you can type `sudo chmod 777 index.js`
