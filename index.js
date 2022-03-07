@@ -13,6 +13,7 @@ async function main () {
 
     try {
         await execCommand(`git clone ${url}`);
+        console.log('Clonned!');
     } catch (e) {
         console.error(e);
     }
